@@ -6,3 +6,4 @@
 -   [06. Include CSS and JavaScript](./the-basics/include-css-and-javascript.md)
 -   [07. Make a Route and Link to it](./the-basics/make-a-route-and-link-to-it.md)
 -   [08. Store Blog Posts as HTML Files](./the-basics/store-blog-posts-as-html-files.md)
+-   [09. Route Wildcard Constraints](./the-basics/route-wildcard-constraints.md)
