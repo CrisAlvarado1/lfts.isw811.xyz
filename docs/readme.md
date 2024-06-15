@@ -8,3 +8,4 @@
 -   [08. Store Blog Posts as HTML Files](./the-basics/store-blog-posts-as-html-files.md)
 -   [09. Route Wildcard Constraints](./the-basics/route-wildcard-constraints.md)
 -   [10. Use Caching for Expensive Operations](./the-basics/use-caching-for-expensive-operations.md)
+-   [11. Use the Filesystem Class to Read a Directory](./the-basics/use-the-filesystem-class-to-read-a-directory.md)
