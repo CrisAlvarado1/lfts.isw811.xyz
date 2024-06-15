@@ -6,7 +6,7 @@
     </head>
     <body>
         <article>
-            <h1><a href="/post">My First Post</a></h1>
+            <h1><a href="/posts/my-first-post">My First Post</a></h1>
             <p>
                 Lorem ipsum dolor sit amet, consectetur adipisicing elit.
                 Doloremque velit molestias mollitia! Pariatur, expedita dolorum
@@ -16,7 +16,7 @@
         </article>
 
         <article>
-            <h1><a href="/post">My Second Post</a></h1>
+            <h1><a href="/posts/my-second-post">My Second Post</a></h1>
             <p>
                 Lorem ipsum dolor sit amet consectetur adipisicing elit. Ipsa
                 enim praesentium illum odio. Cupiditate cum, at facere impedit
@@ -26,7 +26,7 @@
         </article>
         
         <article>
-            <h1><a href="/post">My Third Post</a></h1>
+            <h1><a href="/posts/my-third-post">My Third Post</a></h1>
             <p>
                 Lorem ipsum dolor sit amet consectetur adipisicing elit.
                 Laudantium delectus, labore dignissimos illo itaque impedit
