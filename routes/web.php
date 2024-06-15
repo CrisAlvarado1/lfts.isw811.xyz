@@ -16,15 +16,3 @@ use Illuminate\Support\Facades\Route;
 Route::get('/', function () {
     return view('welcome');
 });
-
-Route::get('/html', function () {
-    return '<h1>Hello world</h1>';
-});
-
-Route::get('/string', function () {
-    return 'hello world';
-});
-
-Route::get('/json', function () {
-    return ['foo' => 'bar'];
-});
