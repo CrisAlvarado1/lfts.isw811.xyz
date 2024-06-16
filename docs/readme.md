@@ -17,3 +17,7 @@
 -   [14. Blade: The Absolute Basics](./blade/blade-the-absolute-basics.md)
 -   [15. Blade Layouts Two Ways](./blade/blade-layouts-two-ways.md)
 -   [16. A Few Tweaks and Consideration](./blade/a-few-weaks-and-consideration.md)
+
+## 04. Working With Databases
+
+-   [17. Environment Files and Database Connections](./working-with-databases/environment-files-and-database-connections.md)
