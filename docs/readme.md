@@ -10,3 +10,4 @@
 -   [10. Use Caching for Expensive Operations](./the-basics/use-caching-for-expensive-operations.md)
 -   [11. Use the Filesystem Class to Read a Directory](./the-basics/use-the-filesystem-class-to-read-a-directory.md)
 -   [12. Find a Composer Package for Post Metadata](./the-basics/find-composer-package-for-post-metadata.md)
+-   [13. Collection Sorting and Caching Refresher](./the-basics/collection-sorting-and-caching-refresher.md)
