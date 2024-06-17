@@ -21,3 +21,4 @@
 ## 04. Working With Databases
 
 -   [17. Environment Files and Database Connections](./working-with-databases/environment-files-and-database-connections.md)
+-   [18. Migrations: The Absolute Basics](./working-with-databases/migrations-the-absolute-basics.md)
