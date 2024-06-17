@@ -26,3 +26,4 @@
 -   [20. Make a Post Model and Migration](./working-with-databases/make-a-post-model-and-migration.md)
 -   [21. Eloquent Updates and HTML Escaping](./working-with-databases/eloquent-updates-and-html-escaping.md)
 -   [22. 3 Ways to Mitigate Mass Assignment Vulnerabilities](./working-with-databases/3-ways-to-mitigate-mass-assignment-vulnerabilities.md)
+-   [23. Route Model Binding](./working-with-databases/route-model-binding.md)
