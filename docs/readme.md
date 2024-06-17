@@ -23,3 +23,4 @@
 -   [17. Environment Files and Database Connections](./working-with-databases/environment-files-and-database-connections.md)
 -   [18. Migrations: The Absolute Basics](./working-with-databases/migrations-the-absolute-basics.md)
 -   [19. Eloquent and the Active Record Pattern](./working-with-databases/eloquent-and-the-active-record-pattern.md)
+-   [20. Make a Post Model and Migration](./working-with-databases/make-a-post-model-and-migration.md)
