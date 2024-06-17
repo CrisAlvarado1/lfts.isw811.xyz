@@ -11,8 +11,9 @@ class Post extends Model
 
     protected $guarded = []; // Tercera opción
 
-    public function getRouteKeyName()
+    public function Category()
     {
-        return 'slug';
+        // hasOne, hasMany, belongsTo, belongsToMany
+        return $this->belongsTo(Category::class);
     }
 }

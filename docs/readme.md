@@ -27,3 +27,4 @@
 -   [21. Eloquent Updates and HTML Escaping](./working-with-databases/eloquent-updates-and-html-escaping.md)
 -   [22. 3 Ways to Mitigate Mass Assignment Vulnerabilities](./working-with-databases/3-ways-to-mitigate-mass-assignment-vulnerabilities.md)
 -   [23. Route Model Binding](./working-with-databases/route-model-binding.md)
+-   [24. Your First Eloquent Relationship](./working-with-databases/your-first-eloquent-relationship.md)
