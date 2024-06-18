@@ -11,6 +11,8 @@ class Post extends Model
 
     protected $guarded = []; // Tercera opción
 
+    protected $with = ['category', 'author'];
+
     public function Category()
     {
         return $this->belongsTo(Category::class);
