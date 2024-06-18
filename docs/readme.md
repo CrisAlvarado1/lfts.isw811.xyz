@@ -34,3 +34,7 @@
 -   [28. Turbo Boost With Factories](./working-with-databases/turbo-boost-with-factories.md)
 -   [29. View All Posts By An Author](./working-with-databases/view-all-posts-by-author.md)
 -   [30. Eager Load Relationships on an Existing Model](./working-with-databases/eager-load-relationships-on-existing-model.md)
+
+## 05. Integrate the Design
+
+-   [31. Convert the HTML and CSS to Blade](./integrate-the-design/convert-the-html-and-css-to-blade.md)
