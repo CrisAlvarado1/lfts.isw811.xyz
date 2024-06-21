@@ -47,3 +47,4 @@
 ## 06. Search
 
 -   [37. Search (The Messy Way)](<./search/search-(the-messy-way).md>)
+-   [38. Search (The Cleaner Way)](<./search/search-(the-cleaner-way).md>)
