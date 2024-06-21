@@ -43,3 +43,7 @@
 -   [34. A Small JavaScript Dropdown Detour](./integrate-the-design/a-small-javascript-dropdown-detour.md)
 -   [35. How to Extract a Dropdown Blade Component](./integrate-the-design/how-to-extract-dropdown-blade-component.md)
 -   [36. Quick Tweaks and Clean-Up](./integrate-the-design/quick-tweaks-and-clean-up.md)
+
+## 06. Search
+
+-   [37. Search (The Messy Way)](<./search/search-(the-messy-way).md>)
