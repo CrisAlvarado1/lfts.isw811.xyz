@@ -65,3 +65,4 @@
 
 -   [45. Build a Register User Page](./forms-and-authentication/build-a-register-user-page.md)
 -   [46. Automatic Password Hashing With Mutators](./forms-and-authentication/automatic-password-hashing-with-mutators.md)
+-   [47. Failed Validation and Old Input Data](./forms-and-authentication/failed-validation-and-old-input-data.md)
