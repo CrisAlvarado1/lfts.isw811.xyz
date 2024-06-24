@@ -60,3 +60,7 @@
 ## 08. Pagination
 
 -   [44. Laughably Simple Pagination](./pagination/laughably-simple-pagination.md)
+
+## 09. Forms and Authentication
+
+-   [45. Build a Register User Page](./forms-and-authentication/build-a-register-user-page.md)
