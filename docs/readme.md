@@ -64,3 +64,4 @@
 ## 09. Forms and Authentication
 
 -   [45. Build a Register User Page](./forms-and-authentication/build-a-register-user-page.md)
+-   [46. Automatic Password Hashing With Mutators](./forms-and-authentication/automatic-password-hashing-with-mutators.md)
