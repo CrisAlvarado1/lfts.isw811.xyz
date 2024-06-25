@@ -67,3 +67,4 @@
 -   [46. Automatic Password Hashing With Mutators](./forms-and-authentication/automatic-password-hashing-with-mutators.md)
 -   [47. Failed Validation and Old Input Data](./forms-and-authentication/failed-validation-and-old-input-data.md)
 -   [48. Show a Success Flash Message](./forms-and-authentication/show-a-success-flash-message.md)
+-   [49. Login and Logout](./forms-and-authentication/login-and-logout.md)
