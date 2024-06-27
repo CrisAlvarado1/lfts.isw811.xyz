@@ -70,3 +70,7 @@
 -   [49. Login and Logout](./forms-and-authentication/login-and-logout.md)
 -   [50. Build the Log In Page](./forms-and-authentication/build-the-log-in-page.md)
 -   [51. Laravel Breeze Quick Peek](./forms-and-authentication/laravel-breeze-quick-peek.md)
+
+## 10. Comments
+
+-   [52. Write the Markup for a Post Comment](./comments/write-the-markup-for-a-post-comment.md)
