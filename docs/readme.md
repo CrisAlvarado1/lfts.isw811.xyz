@@ -74,3 +74,4 @@
 ## 10. Comments
 
 -   [52. Write the Markup for a Post Comment](./comments/write-the-markup-for-a-post-comment.md)
+-   [53. Table Consistency and Foreign Key Constraints](./comments/table-consistency-and-foreign-key-constraints.md)
