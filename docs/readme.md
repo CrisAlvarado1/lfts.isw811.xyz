@@ -75,3 +75,4 @@
 
 -   [52. Write the Markup for a Post Comment](./comments/write-the-markup-for-a-post-comment.md)
 -   [53. Table Consistency and Foreign Key Constraints](./comments/table-consistency-and-foreign-key-constraints.md)
+-   [54. Make the Comments Section Dynamic](./comments/make-the-comments-section-dynamic.md)
