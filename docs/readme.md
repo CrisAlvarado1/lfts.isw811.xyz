@@ -78,3 +78,4 @@
 -   [54. Make the Comments Section Dynamic](./comments/make-the-comments-section-dynamic.md)
 -   [55. Design the Comment Form](./comments/design-the-comment-form.md)
 -   [56. Activate the Comment Form](./comments/activate-the-comment-form.md)
+-   [57. Some Light Chapter Clean Up](./comments/some-light-chapter-clean-up.md)
