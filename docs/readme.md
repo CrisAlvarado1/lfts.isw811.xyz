@@ -77,3 +77,4 @@
 -   [53. Table Consistency and Foreign Key Constraints](./comments/table-consistency-and-foreign-key-constraints.md)
 -   [54. Make the Comments Section Dynamic](./comments/make-the-comments-section-dynamic.md)
 -   [55. Design the Comment Form](./comments/design-the-comment-form.md)
+-   [56. Activate the Comment Form](./comments/activate-the-comment-form.md)
