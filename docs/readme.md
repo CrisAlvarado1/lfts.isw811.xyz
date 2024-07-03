@@ -79,3 +79,7 @@
 -   [55. Design the Comment Form](./comments/design-the-comment-form.md)
 -   [56. Activate the Comment Form](./comments/activate-the-comment-form.md)
 -   [57. Some Light Chapter Clean Up](./comments/some-light-chapter-clean-up.md)
+
+## 11. Newsletters and APIs
+
+-   [58. Mailchimp API Tinkering](./newsletters-and-apis/mailchimp-api-tinkering.md)
