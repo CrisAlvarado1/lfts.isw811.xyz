@@ -84,3 +84,4 @@
 
 -   [58. Mailchimp API Tinkering](./newsletters-and-apis/mailchimp-api-tinkering.md)
 -   [59. Make the Newsletter Form Work](./newsletters-and-apis/make-the-newsletter-form-work.md)
+-   [60. Extract a Newsletter Service](./newsletters-and-apis/extract-newsletter-service.md)
