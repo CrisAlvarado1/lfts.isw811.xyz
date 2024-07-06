@@ -86,3 +86,7 @@
 -   [59. Make the Newsletter Form Work](./newsletters-and-apis/make-the-newsletter-form-work.md)
 -   [60. Extract a Newsletter Service](./newsletters-and-apis/extract-newsletter-service.md)
 -   [61. Toy Chests and Contracts](./newsletters-and-apis/toy-chests-and-contracts.md)
+
+## 12. Admin Section
+
+-   [62. Limit Access to Only Admins](./admin-section/limit-access-to-only-admins.md)
