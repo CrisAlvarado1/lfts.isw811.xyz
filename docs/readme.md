@@ -90,3 +90,4 @@
 ## 12. Admin Section
 
 -   [62. Limit Access to Only Admins](./admin-section/limit-access-to-only-admins.md)
+-   [63. Create the Publish Post Form](./admin-section/create-the-publish-post-form.md)
