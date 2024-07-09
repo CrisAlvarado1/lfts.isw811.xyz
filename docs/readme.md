@@ -94,3 +94,4 @@
 -   [64. Validate and Store Post Thumbnails](./admin-section/validate-and-store-post-thumbnails.md)
 -   [65. Extract Form-Specific Blade Components](./admin-section/extract-form-specific-blade-components.md)
 -   [66. Extend the Admin Layout](./admin-section/extend-the-admin-layout.md)
+-   [67. Create a Form to Edit and Delete Posts](./admin-section/create-a-form-to-edit-and-delete-posts.md)
